@@ -1,0 +1,114 @@
+{
+  "apim-request-id": "63b7cf3c-c4f3-45d4-8d63-d78db354c4c0",
+  "content-length": "1305",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "denseCaptionsResult": {
+    "values": [
+      {
+        "text": "a cartoon of a girl",
+        "confidence": 0.7126021981239319,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 1991,
+          "h": 1659
+        }
+      },
+      {
+        "text": "a cartoon of a girl",
+        "confidence": 0.6836614608764648,
+        "boundingBox": {
+          "x": 41,
+          "y": 19,
+          "w": 1895,
+          "h": 1594
+        }
+      },
+      {
+        "text": "a drawing of a cartoon face",
+        "confidence": 0.7461446523666382,
+        "boundingBox": {
+          "x": 510,
+          "y": 174,
+          "w": 769,
+          "h": 966
+        }
+      },
+      {
+        "text": "a close up of a letter",
+        "confidence": 0.7015634179115295,
+        "boundingBox": {
+          "x": 161,
+          "y": 267,
+          "w": 295,
+          "h": 101
+        }
+      },
+      {
+        "text": "a black background with white text",
+        "confidence": 0.7192152142524719,
+        "boundingBox": {
+          "x": 1354,
+          "y": 157,
+          "w": 518,
+          "h": 727
+        }
+      },
+      {
+        "text": "a white circle on a black surface",
+        "confidence": 0.6941280364990234,
+        "boundingBox": {
+          "x": 1494,
+          "y": 528,
+          "w": 90,
+          "h": 99
+        }
+      },
+      {
+        "text": "a white letter on a black surface",
+        "confidence": 0.7134135365486145,
+        "boundingBox": {
+          "x": 1565,
+          "y": 765,
+          "w": 95,
+          "h": 101
+        }
+      },
+      {
+        "text": "a white letter on a black surface",
+        "confidence": 0.7529283165931702,
+        "boundingBox": {
+          "x": 153,
+          "y": 479,
+          "w": 95,
+          "h": 96
+        }
+      },
+      {
+        "text": "a blurry image of a letter e",
+        "confidence": 0.7324793934822083,
+        "boundingBox": {
+          "x": 1488,
+          "y": 409,
+          "w": 93,
+          "h": 105
+        }
+      },
+      {
+        "text": "a white letter on a black background",
+        "confidence": 0.7292249202728271,
+        "boundingBox": {
+          "x": 1397,
+          "y": 642,
+          "w": 432,
+          "h": 131
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "width": 1991,
+    "height": 1659
+  }
+}

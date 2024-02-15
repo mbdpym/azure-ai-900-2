@@ -1,0 +1,114 @@
+{
+  "apim-request-id": "7d242ec6-70fa-430e-9a1e-668376cb28a9",
+  "content-length": "1277",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "denseCaptionsResult": {
+    "values": [
+      {
+        "text": "two cats in a tree",
+        "confidence": 0.7222824096679688,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 3024,
+          "h": 4032
+        }
+      },
+      {
+        "text": "a cat hugging another cat",
+        "confidence": 0.6578561067581177,
+        "boundingBox": {
+          "x": 365,
+          "y": 472,
+          "w": 2587,
+          "h": 3467
+        }
+      },
+      {
+        "text": "a close up of a cat's eye",
+        "confidence": 0.8275651931762695,
+        "boundingBox": {
+          "x": 757,
+          "y": 1347,
+          "w": 797,
+          "h": 289
+        }
+      },
+      {
+        "text": "a close up of a furry ear",
+        "confidence": 0.6929900646209717,
+        "boundingBox": {
+          "x": 410,
+          "y": 643,
+          "w": 568,
+          "h": 634
+        }
+      },
+      {
+        "text": "a close up of a nose",
+        "confidence": 0.7619050145149231,
+        "boundingBox": {
+          "x": 1061,
+          "y": 1679,
+          "w": 262,
+          "h": 272
+        }
+      },
+      {
+        "text": "a close up of a brown animal's ear",
+        "confidence": 0.6562038660049438,
+        "boundingBox": {
+          "x": 1273,
+          "y": 501,
+          "w": 548,
+          "h": 651
+        }
+      },
+      {
+        "text": "a close up of a cat's ears",
+        "confidence": 0.751378059387207,
+        "boundingBox": {
+          "x": 399,
+          "y": 487,
+          "w": 1397,
+          "h": 761
+        }
+      },
+      {
+        "text": "a close up of an eye",
+        "confidence": 0.8122172355651855,
+        "boundingBox": {
+          "x": 1289,
+          "y": 1367,
+          "w": 261,
+          "h": 222
+        }
+      },
+      {
+        "text": "a close up of a yellow eye",
+        "confidence": 0.7138059139251709,
+        "boundingBox": {
+          "x": 774,
+          "y": 1398,
+          "w": 266,
+          "h": 223
+        }
+      },
+      {
+        "text": "a close up of a cat's face",
+        "confidence": 0.870360255241394,
+        "boundingBox": {
+          "x": 1276,
+          "y": 1701,
+          "w": 938,
+          "h": 966
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "width": 3024,
+    "height": 4032
+  }
+}

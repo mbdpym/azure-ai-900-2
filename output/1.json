@@ -1,0 +1,114 @@
+{
+  "apim-request-id": "17748fae-8973-4169-b1ba-96e37f117003",
+  "content-length": "1280",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "denseCaptionsResult": {
+    "values": [
+      {
+        "text": "a group of people posing for a photo",
+        "confidence": 0.9255906343460083,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 893,
+          "h": 554
+        }
+      },
+      {
+        "text": "a man in a yellow and green vest",
+        "confidence": 0.7862891554832458,
+        "boundingBox": {
+          "x": 746,
+          "y": 162,
+          "w": 129,
+          "h": 243
+        }
+      },
+      {
+        "text": "a man sitting at a table",
+        "confidence": 0.8533488512039185,
+        "boundingBox": {
+          "x": 201,
+          "y": 259,
+          "w": 149,
+          "h": 135
+        }
+      },
+      {
+        "text": "a man smiling at camera",
+        "confidence": 0.7120628356933594,
+        "boundingBox": {
+          "x": 453,
+          "y": 249,
+          "w": 126,
+          "h": 153
+        }
+      },
+      {
+        "text": "a man in a white shirt",
+        "confidence": 0.8220958113670349,
+        "boundingBox": {
+          "x": 352,
+          "y": 263,
+          "w": 113,
+          "h": 130
+        }
+      },
+      {
+        "text": "a man in a suit smiling",
+        "confidence": 0.8092324137687683,
+        "boundingBox": {
+          "x": 579,
+          "y": 242,
+          "w": 130,
+          "h": 134
+        }
+      },
+      {
+        "text": "a man in a white shirt",
+        "confidence": 0.7715216279029846,
+        "boundingBox": {
+          "x": 324,
+          "y": 167,
+          "w": 112,
+          "h": 184
+        }
+      },
+      {
+        "text": "a man in a suit and tie",
+        "confidence": 0.8281599879264832,
+        "boundingBox": {
+          "x": 638,
+          "y": 157,
+          "w": 117,
+          "h": 236
+        }
+      },
+      {
+        "text": "a man in a suit",
+        "confidence": 0.8970441222190857,
+        "boundingBox": {
+          "x": 497,
+          "y": 163,
+          "w": 114,
+          "h": 175
+        }
+      },
+      {
+        "text": "a man and woman standing in front of a sign",
+        "confidence": 0.8234107494354248,
+        "boundingBox": {
+          "x": 219,
+          "y": 55,
+          "w": 140,
+          "h": 140
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "width": 893,
+    "height": 554
+  }
+}
