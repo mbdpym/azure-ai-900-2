@@ -5,7 +5,7 @@ The following is a description of the project: Its goal, step by step, results a
 
 ----------------------
 
-**1. Model training and evaluation**
+**1. What will be done**
 
 Use of the Azure Vision Studio to analyze and generate insights for image files, creating captions, recognizing faces, extracting text from an image.
 
